@@ -6,15 +6,12 @@
 </a>
 <br/>
 
-<p align="left">
 <a href="https://drive.google.com/file/d/1n5p1fI9zN4Eo-b-ey2Wh-yNUCAxCjjSO/view?usp=share_link">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
-<p align="center">
-<a href="https://www.linkedin.com/in/ankushgpta/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<p align="right">
+    <a href="https://www.linkedin.com/in/ankushgpta/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    </a>
 <a href="mailto:ankushgpta2@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
