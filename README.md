@@ -6,6 +6,12 @@
 </a>
 <br/>
 
+<p align="center">
+<a href="https://github.com/ankushkgupta">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Skills:" alt="Typing SVG" />
+</a>
+<br/>
+    
 [![My Skills](https://skills.thijs.gg/icons?i=py,r,java,matlab,perl,scala,docker,git,mysql,azure,aws,gcp,bash,powershell,md,pytorch,tensorfow&theme=light&perline=3)](https://skills.thijs.gg)
     
 <p align="left">
