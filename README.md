@@ -29,9 +29,8 @@
 </td><td>
 
 [![My Skills](https://skills.thijs.gg/icons?i=git,bash,powershell&theme=light&perline=3)](https://skills.thijs.gg)
-</td><td>
     
-</td></tr> </table>
+</table>
     
 <!-- <a href="https://github.com/ankushgpta2">
     <img src="https://github-readme-stats.vercel.app/api?username=ankushgpta2&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
