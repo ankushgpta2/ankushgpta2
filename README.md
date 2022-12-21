@@ -6,6 +6,8 @@
 </a>
 <br/>
 
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+    
 <p align="left">
 <a href="https://drive.google.com/file/d/1n5p1fI9zN4Eo-b-ey2Wh-yNUCAxCjjSO/view?usp=share_link">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
