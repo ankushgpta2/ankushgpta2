@@ -19,7 +19,7 @@
 :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
 
 <table>
-<tr><th>Languages+Frameworks </th><th>Cloud+Container </th><th>CLI </th></tr>
+<tr><th>Languages + Frameworks </th><th>Cloud + Container </th><th>CLI </th></tr>
 <tr><td>
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,r,java,matlab,perl,mysql,scala,md,pytorch,tensorfow&theme=light&perline=5)](https://skills.thijs.gg)
