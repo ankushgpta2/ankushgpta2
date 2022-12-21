@@ -19,25 +19,13 @@
 :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
 
 <table>
-<tr><th>
-    <a href="https://github.com/ankushkgupta">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=10000&multiline=true&width=200&height=30&lines=Languages/Frameworks" alt="Typing SVG" />
-    </a> 
-</th><th>
-    <a href="https://github.com/ankushkgupta">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=10000&multiline=true&width=200&height=30&lines=Cloud/Container" alt="Typing SVG" />
-    </a>
-</th><th>
-    <a href="https://github.com/ankushkgupta">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=10000&multiline=false&width=200&height=30&lines=CLI"     alt="Typing SVG" />
-    </a>
-</th></tr>
+<tr><th>Languages </th><th>Cloud/Container </th><th>CLI </th></tr>
 <tr><td>
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,r,java,matlab,perl,mysql,scala,md,pytorch,tensorfow&theme=light&perline=3)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,r,java,matlab,perl,mysql,scala,md,pytorch,tensorfow&theme=light&perline=5)](https://skills.thijs.gg)
 </td><td>
     
-[![My Skills](https://skills.thijs.gg/icons?i=azure,aws,gcp,docker&theme=light&perline=3)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=azure,aws,gcp,docker&theme=light&perline=5)](https://skills.thijs.gg)
 </td><td>
 
 [![My Skills](https://skills.thijs.gg/icons?i=git,bash,powershell&theme=light&perline=3)](https://skills.thijs.gg)
