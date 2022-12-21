@@ -6,7 +6,7 @@
 </a>
 <br/>
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,r,java,matlab,perl,scala,docker,git,mysql,azure,aws,gcp,bash,powershell,md,pytorch,tensorfow&theme=light&perline=3)](https://skills.thijs.gg)
     
 <p align="left">
 <a href="https://drive.google.com/file/d/1n5p1fI9zN4Eo-b-ey2Wh-yNUCAxCjjSO/view?usp=share_link">
