@@ -21,15 +21,15 @@
 <table>
 <tr><th>
     <a href="https://github.com/ankushkgupta">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=10000&multiline=true&width=300&height=30&lines=Languages/Frameworks" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=10000&multiline=true&width=200&height=30&lines=Languages/Frameworks" alt="Typing SVG" />
     </a> 
 </th><th>
     <a href="https://github.com/ankushkgupta">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=10000&multiline=true&width=300&height=30&lines=Cloud/Container" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=10000&multiline=true&width=200&height=30&lines=Cloud/Container" alt="Typing SVG" />
     </a>
 </th><th>
     <a href="https://github.com/ankushkgupta">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=10000&multiline=true&width=300&height=30&lines=CLI"     alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=10000&multiline=false&width=200&height=30&lines=CLI"     alt="Typing SVG" />
     </a>
 </th></tr>
 <tr><td>
