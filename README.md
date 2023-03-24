@@ -18,19 +18,23 @@
 
 :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
     
-### About Me :smile:
+### ```About Me``` &nbsp;:smile:
 * My Background: 
     * &nbsp; 🤖 &nbsp;&nbsp;&nbsp; Former Visting Researcher at UMD CS (Neuromorphic Deep Vision in Robotics)
-    * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former Neuroscience Researcher at NIH (Comp Neuro + Physics) and VCU SOM (Biophysics)
+    * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former Neuroscience Researcher at NIH as an IRTA Research Fellow (Comp Neuro + Physics) and VCU SOM (Biophysics)
     * &nbsp; ⚛️ &nbsp;&nbsp;&nbsp; Former Nanotechnology Researcher at Johns Hopkins Sidney Kimmel Cancer Center
 * Current Endeavors:
     * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Lead Data Scientist at Deloitte Consulting LLP (Fed Health, Quantum Computing, AI/ML Research)
     * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Computer Science Graduate Student at UPENN (Dual-Degree Master's)
 * In My Free Time:
     * &nbsp; :dog: &nbsp;&nbsp;&nbsp; Spending Time with My Two Dogs (Protugese Waterdog and Mini-Bernedoodle)
-    * &nbsp; :books: &nbsp;&nbsp;&nbsp; Writing About + Doing Research Formally in Other Related Areas (Philosophy, Psychology, Mathematics, Finance)
+    * &nbsp; :books: &nbsp;&nbsp;&nbsp; Writing About + Doing Research Formally in Other Related Areas (Philosophy, Psychology, Mathematics, Finance, Physics)
     * &nbsp; 👪 &nbsp;&nbsp;&nbsp; Spending Time with Family and Friends
 
+:wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
+
+### ```Some of My Skills``` &nbsp;🛠️
+    
 <table>
 <tr><th>Languages + Frameworks </th><th>Cloud + Container </th><th>CLI</th></tr>
 <tr><td>
@@ -44,6 +48,19 @@
 [![My Skills](https://skills.thijs.gg/icons?i=git,bash,powershell&theme=light&perline=3)](https://skills.thijs.gg)
     
 </table>
+    
+**```Not Shown:```**
+* Groovy
+* C/C++
+* Go
+* Nextflow and Nextflow Tower 
+* Spark/PySpark
+* Hadoop
+* Kubernetes
+* Django
+* Flask
+* Singularity
+* HPC
 
 <details>
 <summary>📈 Stats</summary>
