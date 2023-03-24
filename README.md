@@ -63,7 +63,7 @@
 * HPC
 
 <details>
-<summary>📈 Stats</summary>
+<summary>📈 Stats:</summary>
 <br>
     
 <!-- <a href="https://github.com/ankushgpta2">
