@@ -28,7 +28,7 @@
     * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Computer Science Graduate Student at UPENN (Dual-Degree Master's)
 * In My Free Time:
     * &nbsp; :dog: &nbsp;&nbsp;&nbsp; Spending Time with My Two Dogs (Protugese Waterdog and Mini-Bernedoodle)
-    * &nbsp; :books: &nbsp;&nbsp;&nbsp; Writing About + Doing Research Formally in Other Related Areas (Philosophy, Psychology, Mathematics, Finance, Physics)
+    * &nbsp; :books: &nbsp;&nbsp;&nbsp; Writing About + Doing Research Formally in Other Related Areas (Philosophy, Psychology, Math, Finance, Physics)
     * &nbsp; 👪 &nbsp;&nbsp;&nbsp; Spending Time with Family and Friends
 
 :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
