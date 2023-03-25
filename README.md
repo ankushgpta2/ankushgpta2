@@ -21,7 +21,7 @@
 ### ```About Me``` &nbsp;:smile:
 * My Background: 
     * &nbsp; 🤖 &nbsp;&nbsp;&nbsp; Former Visting Researcher at UMD CS (Neuromorphic Deep Vision in Robotics)
-    * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former Neuroscience Researcher at NIH as an IRTA Research Fellow (Comp Neuro + Physics) and VCU SOM (Biophysics)
+    * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former Neuroscience Researcher at NIH (IRTA Research Fellow) (Comp Neuro + Physics) and VCU SOM (Biophysics)
     * &nbsp; ⚛️ &nbsp;&nbsp;&nbsp; Former Nanotechnology Researcher at Johns Hopkins Sidney Kimmel Cancer Center
 * Current Endeavors:
     * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Lead Data Scientist at Deloitte Consulting LLP (Fed Health, Quantum Computing, AI/ML Research)
