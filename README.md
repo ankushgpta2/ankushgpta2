@@ -62,8 +62,19 @@
 * Singularity
 * HPC
 
+:wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
+
+### ```Stats``` &nbsp;:bar_chart:
+
+![GitHub stats](https://img.shields.io/github/stars/ankushgpta2?style=social) ![GitHub followers](https://img.shields.io/github/followers/ankushgpta2?style=social)
+    
+<div style="display: flex; justify-content: space-between;">
+  <img width="44%" style="padding-right: 50px;" src="https://github-readme-stats.vercel.app/api?username=ankushgpta2&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Ankush%27s%20GitHub%20Stats" />
+  <img width="46.5%" style="padding-left: 50px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushgpta2&theme=radical" />
+</div>
+
 <details>
-<summary>📈 Stats:</summary>
+<summary>📈 More Stats:</summary>
 <br>
     
 <!-- <a href="https://github.com/ankushgpta2">
