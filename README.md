@@ -20,12 +20,12 @@
     
 ### ```About Me``` &nbsp;:smile:
 * My Background: 
-    * &nbsp; 🤖 &nbsp;&nbsp;&nbsp; Former Visting Researcher at UMD CS (Neuromorphic Deep Vision in Robotics)
-    * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former Neuroscience Researcher at NIH (Comp Neuro + Physics) and VCU SOM (Biophysics)
-    * &nbsp; ⚛️ &nbsp;&nbsp;&nbsp; Former Nanotechnology Researcher at Johns Hopkins Sidney Kimmel Cancer Center
+    * &nbsp; 🤖 &nbsp;&nbsp;&nbsp; Former Visting Researcher @ UMD CS (Neuromorphic Deep Vision in Robotics)
+    * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former Neuroscience Researcher @ NIH (Comp Neuro + Physics) and VCU SOM (Biophysics)
+    * &nbsp; ⚛️ &nbsp;&nbsp;&nbsp; Former Nanotechnology Researcher @ Johns Hopkins Sidney Kimmel Cancer Center
 * Current Endeavors:
-    * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Lead Data Scientist at Deloitte Consulting LLP (Fed Health, Quantum Computing, AI/ML Research)
-    * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Graduate Student at UPENN in Computer Science & Data Science
+    * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Lead Data Scientist @ Deloitte Consulting LLP (Fed Health, Quantum Computing, AI/ML Research)
+    * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Graduate Student @ UPENN in Computer Science & Data Science
 * In My Free Time:
     * &nbsp; :dog: &nbsp;&nbsp;&nbsp; Spending Time with My Two Dogs (Protugese Waterdog and Mini-Bernedoodle)
     * &nbsp; :books: &nbsp;&nbsp;&nbsp; Writing About + Doing Research Formally in Other Related Areas (Philosophy, Psychology, Math, Finance, Physics)
