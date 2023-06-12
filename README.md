@@ -25,7 +25,7 @@
     * &nbsp; ⚛️ &nbsp;&nbsp;&nbsp; Former Nanotechnology Researcher at Johns Hopkins Sidney Kimmel Cancer Center
 * Current Endeavors:
     * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Lead Data Scientist at Deloitte Consulting LLP (Fed Health, Quantum Computing, AI/ML Research)
-    * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Computer Science Graduate Student at UPENN (Dual-Degree Master's)
+    * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Graduate Student at UPENN in Computer Science & Data Science
 * In My Free Time:
     * &nbsp; :dog: &nbsp;&nbsp;&nbsp; Spending Time with My Two Dogs (Protugese Waterdog and Mini-Bernedoodle)
     * &nbsp; :books: &nbsp;&nbsp;&nbsp; Writing About + Doing Research Formally in Other Related Areas (Philosophy, Psychology, Math, Finance, Physics)
