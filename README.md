@@ -18,7 +18,7 @@
 
 :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
     
-### ```About Me``` &nbsp;:smile:
+### ```About Me``` &nbsp; :smile:
 * My Background: 
     * &nbsp; 🤖 &nbsp;&nbsp;&nbsp; Former Visting Researcher @ UMD CS (Neuromorphic Deep Vision in Robotics)
     * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former Neuroscience Researcher @ NIH (Comp Neuro + Physics) and VCU SOM (Biophysics)
@@ -39,13 +39,13 @@
 <tr><th>Languages + Frameworks </th><th>Cloud + Container </th><th>CLI</th></tr>
 <tr><td>
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,r,java,matlab,perl,mysql,scala,md,pytorch,tensorfow&theme=light&perline=5)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=py,r,java,matlab,perl,mysql,scala,md,pytorch,tensorfow&theme=light&perline=5)](https://skillicons.dev)
 </td><td>
     
-[![My Skills](https://skills.thijs.gg/icons?i=azure,aws,gcp,docker&theme=light&perline=5)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,docker&theme=light&perline=5)](https://skillicons.dev)
 </td><td>
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,bash,powershell&theme=light&perline=3)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=git,bash,powershell&theme=light&perline=3)](https://skillicons.dev)
     
 </table>
     
@@ -64,7 +64,7 @@
 
 :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
 
-### ```Stats``` &nbsp;:bar_chart:
+### ```Stats``` &nbsp; :bar_chart:
 
 ![GitHub stats](https://img.shields.io/github/stars/ankushgpta2?style=social) ![GitHub followers](https://img.shields.io/github/followers/ankushgpta2?style=social)
     
