@@ -15,7 +15,7 @@
 ### ```About Me``` &nbsp; :smile:
 * My Background: 
     * &nbsp; 🤖 &nbsp;&nbsp;&nbsp; Former Visting Researcher @ UMD CS (Neuromorphic Deep Vision in Robotics)
-    * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former Neuroscience Researcher @ NIH (Comp Neuro + Physics) and VCU SOM (Biophysics)
+    * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former AI Researcher @ NIH (Neuroscience + Physics)
     * &nbsp; ⚛️ &nbsp;&nbsp;&nbsp; Former Nanotechnology Researcher @ Johns Hopkins Sidney Kimmel Cancer Center
 * Endeavors:
     * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Lead AI Engineer (Fed Health, Quantum Computing, AI/ML Research)
