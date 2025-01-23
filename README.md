@@ -21,9 +21,9 @@
     * &nbsp; :computer: &nbsp;&nbsp;&nbsp; AI Engineer @ Deloitte (Fed Health, Quantum Computing, AI/ML Research)
     * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Graduate Student @ UPENN in Computer Science & Data Science
 * In My Free Time:
-    * &nbsp; :dog: &nbsp;&nbsp;&nbsp; Spending Time with My Two Dogs
-    * &nbsp; :books: &nbsp;&nbsp;&nbsp; Writing About + Doing Research Formally in Other Related Areas (Philosophy, Psychology, Math, Finance, Physics)
-    * &nbsp; 👪 &nbsp;&nbsp;&nbsp; Spending Time with Family and Friends
+    * &nbsp; :dog: &nbsp;&nbsp;&nbsp; Spending time with my two dogs
+    * &nbsp; :books: &nbsp;&nbsp;&nbsp; Writing about + doing research in other related areas (Philosophy, Psychology, Math, Finance, Physics)
+    * &nbsp; 👪 &nbsp;&nbsp;&nbsp; Spending time with family and friends
 
 :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
 
