@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/ankushkgupta">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=1500&pause=200&multiline=true&width=600&height=100&lines=Ankush+K.+Gupta;&#8594; Data+Scientist+%7C+ML+Engineer+%7C+Researcher;&#8594; AI, Computer+Vision, Quantum+Computing;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=1500&pause=200&multiline=true&width=600&height=100&lines=Ankush+K.+Gupta;&#8594; AI+Engineer+%7C+Data+Scientist+%7C+Researcher;&#8594; AI, Computer+Vision, Quantum+Computing;" alt="Typing SVG" />
 </a>
 
 <p align="left">
@@ -18,10 +18,10 @@
     * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former AI Researcher @ NIH (Neuroscience + Physics)
     * &nbsp; ⚛️ &nbsp;&nbsp;&nbsp; Former Nanotechnology Researcher @ Johns Hopkins Sidney Kimmel Cancer Center
 * Endeavors:
-    * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Lead AI Engineer (Fed Health, Quantum Computing, AI/ML Research)
+    * &nbsp; :computer: &nbsp;&nbsp;&nbsp; AI Engineer @ Deloitte (Fed Health, Quantum Computing, AI/ML Research)
     * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Graduate Student @ UPENN in Computer Science & Data Science
 * In My Free Time:
-    * &nbsp; :dog: &nbsp;&nbsp;&nbsp; Spending Time with My Two Dogs (Protugese Waterdog and Mini-Bernedoodle)
+    * &nbsp; :dog: &nbsp;&nbsp;&nbsp; Spending Time with My Two Dogs
     * &nbsp; :books: &nbsp;&nbsp;&nbsp; Writing About + Doing Research Formally in Other Related Areas (Philosophy, Psychology, Math, Finance, Physics)
     * &nbsp; 👪 &nbsp;&nbsp;&nbsp; Spending Time with Family and Friends
 
