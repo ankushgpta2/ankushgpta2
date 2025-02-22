@@ -16,6 +16,7 @@
 * Endeavors:
     * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Visiting Researcher (AI) @ UC Berkeley (Redwood Center for Theoretical Neuroscience)
     * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Graduate Student @ UPENN in Computer Science
+ 
 * My Background:
     * &nbsp; 🤖 &nbsp;&nbsp;&nbsp; Former AI Engineer @ Deloitte (Fed Health, Quantum Computing, AI/ML Research)
     * &nbsp; 🤖 &nbsp;&nbsp;&nbsp; Former Visting Researcher @ UMD CS (Neuromorphic Deep Vision in Robotics)
