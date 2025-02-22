@@ -13,14 +13,14 @@
 :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
     
 ### ```About Me``` &nbsp; :smile:
+* Endeavors:
+    * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Visiting Researcher (AI) @ UC Berkeley (Redwood Center for Theoretical Neuroscience)
+    * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Graduate Student @ UPENN in Computer Science
 * My Background:
     * &nbsp; 🤖 &nbsp;&nbsp;&nbsp; Former AI Engineer @ Deloitte (Fed Health, Quantum Computing, AI/ML Research)
     * &nbsp; 🤖 &nbsp;&nbsp;&nbsp; Former Visting Researcher @ UMD CS (Neuromorphic Deep Vision in Robotics)
     * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former AI Researcher @ NIH (Neuroscience + Physics)
     * &nbsp; ⚛️ &nbsp;&nbsp;&nbsp; Former Nanotechnology Researcher @ Johns Hopkins Sidney Kimmel Cancer Center
-* Endeavors:
-    * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Visiting Researcher (AI) @ UC Berkeley (Redwood Center for Theoretical Neuroscience)
-    * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Graduate Student @ UPENN in Computer Science
 * In My Free Time:
     * &nbsp; :dog: &nbsp;&nbsp;&nbsp; Spending time with my two dogs
     * &nbsp; :books: &nbsp;&nbsp;&nbsp; Writing about + doing research in other related areas (Philosophy, Psychology, Math, Finance, Physics)
